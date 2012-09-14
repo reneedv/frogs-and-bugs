@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "frogs-and-bugs"
-  s.version = ""
+  s.version = "0.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ren\u{e9}e De Voursney"]
@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
+    "VERSION",
     "frogs-and-bugs.gemspec",
     "lib/frogs-and-bugs.rb",
     "test/helper.rb",
