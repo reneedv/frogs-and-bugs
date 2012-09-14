@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
+    "frogs-and-bugs.gemspec",
     "lib/frogs-and-bugs.rb",
     "test/helper.rb",
     "test/test_frogs-and-bugs.rb"
